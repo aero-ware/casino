@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "@aeroware/aeroclient": "^2.6.0",
+        "canvas": "^2.6.1",
+        "discord.js": "^12.5.1",
+        "dotenv": "^8.2.0"
+    },
+    "name": "casino",
+    "devDependencies": {},
+    "scripts": {
+        "dev": "nodemon src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "im-lonely <cursors.dev@gmail.com>",
+    "license": "MIT",
+    "description": ""
+}
