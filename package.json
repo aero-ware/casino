@@ -5,7 +5,8 @@
         "@aeroware/aeroclient": "^2.6.0",
         "canvas": "^2.6.1",
         "discord.js": "^12.5.1",
-        "dotenv": "^8.2.0"
+        "dotenv": "^8.2.0",
+        "nanoid": "^3.1.20"
     },
     "name": "casino",
     "devDependencies": {},
